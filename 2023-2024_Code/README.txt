@@ -1,5 +1,4 @@
-This will be the folder to hold all the code for the Over Under competition
-Feel free to delete this when you're ready to start
-Good luck
-
-- Eddy
+This folder holds all the code for the Over Under competition for the upcoming competitions
+Comp 1: dd/mm/yyyy
+Comp 2: dd/mm/yyyy
+Comp 3: dd/mm/yyyy
