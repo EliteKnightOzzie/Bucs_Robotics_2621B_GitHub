@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------------*/
 /*                                                                            */
-/*    Module:       main.cpp (feel free to rename)                            */
+/*    Module:       main.cpp                                                  */
 /*    Author:       Names                                                     */
 /*    Created:      dd/mm/yyyy                                                */
 /*    Description:  Write description here                                    */
